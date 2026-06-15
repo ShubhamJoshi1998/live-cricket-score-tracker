@@ -1,16 +1,104 @@
-# React + Vite
+# 🏏 CricPulse
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+CricPulse is a modern Live Cricket Score Tracker built with React and Vite. It provides cricket fans with real-time match updates, live scores, fixtures, team information, and an intuitive user experience.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- 📡 Live Cricket Scores
+- 🗓️ Upcoming Match Fixtures
+- 👥 Team Information
+- ⚡ Fast and Responsive UI
+- 📱 Mobile-Friendly Design
+- 🎨 Modern User Interface
+- 🔄 Real-Time Data Updates
+- ⚙️ Built with React + Vite
 
-## React Compiler
+## 🛠️ Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- React.js
+- Vite
+- JavaScript (ES6+)
+- CSS Modules
+- Tailwind CSS
+- REST APIs
 
-## Expanding the ESLint configuration
+## 📂 Project Structure
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+## 📦 Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/your-username/cricpulse.git
+```
+
+Navigate to the project directory:
+
+```bash
+cd cricpulse
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Start the development server:
+
+```bash
+npm run dev
+```
+
+Open your browser and visit:
+
+```bash
+http://localhost:5173
+```
+
+## 🔨 Build for Production
+
+```bash
+npm run build
+```
+
+Preview the production build:
+
+```bash
+npm run preview
+```
+
+## 🌟 Future Enhancements
+
+- Match Commentary
+- Player Statistics
+- Points Table
+- Match Highlights
+- User Authentication
+- Favorite Teams
+- Notifications for Live Matches
+
+## 🤝 Contributing
+
+Contributions are welcome. Feel free to fork the repository and submit a pull request.
+
+## 📄 License
+
+This project is licensed under the MIT License.
+
+## 👨‍💻 Author
+
+**Shubham Joshi**
+
+Frontend Developer
+
+- React.js
+- Next.js
+- JavaScript
+- Node.js
+- Firebase
+
+---
+
+Made with ❤️ for Cricket Fans.
