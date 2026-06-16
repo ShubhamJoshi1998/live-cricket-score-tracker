@@ -30,6 +30,7 @@ const Footer = () => {
                 About{" "}
               </a>
             </nav>
+            
             <div className={footerStyles.socialContainer}>
               <a title="Twitter" href="#" className={footerStyles.socialLink}>
                 <svg
