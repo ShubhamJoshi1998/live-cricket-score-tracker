@@ -12,7 +12,8 @@ const Home = () => {
       <div className={homeStyles.headerContainer}>
         <Header onSearch={(q) => console.log('search:', q)}/>
       </div>
-
+<br/>
+<br/>
       <Footer />
     </div>
   )
