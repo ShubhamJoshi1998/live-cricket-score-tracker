@@ -2,6 +2,9 @@
 
 CricPulse is a modern Live Cricket Score Tracker built with React and Vite. It provides cricket fans with real-time match updates, live scores, fixtures, team information, and an intuitive user experience.
 
+
+![image alt](https://github.com/ShubhamJoshi1998/live-cricket-score-tracker/blob/main/Screenshot%202026-06-18%20214733.png?raw=true)
+
 ## 🚀 Features
 
 - 📡 Live Cricket Scores
