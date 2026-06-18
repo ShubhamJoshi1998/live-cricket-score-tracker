@@ -14,14 +14,16 @@ export default function Loader({
 
   const content = (
     <div className="flex items-center gap-3">
-      <div className={`rounded-full border-t-slate-700 border-slate-200 border-solid animate-spin ${classes}`}
+      <div
+        className={`rounded-full border-t-slate-700 border-slate-200 border-solid animate-spin ${classes}`}
       ></div>
       {message && <div className="text-sm text-slate-600">{message}</div>}
     </div>
   );
+
   return centered ? (
     <div className="w-full flex items-center justify-center p-4">{content}</div>
   ) : (
-    centered
+    content
   );
 }
